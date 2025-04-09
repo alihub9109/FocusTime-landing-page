@@ -222,11 +222,13 @@
     font-size: var(--font-size-hero-main);
     font-weight: var(--weight-boldest);
     margin-bottom: 0;
+    text-align: start;
   }
   
   .hero-subtext {
     font-size: var(--font-size-hero-sub);
     margin-top: 0;
+    text-align: start;
   }
   
   .hero-section button {
