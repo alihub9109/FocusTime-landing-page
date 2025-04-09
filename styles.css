@@ -217,7 +217,7 @@
     max-width: 700px;
     height: auto;
     animation: float 3s ease-in-out infinite;
-  }
+  } 
   
   @keyframes float {
     0% {
