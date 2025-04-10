@@ -83,6 +83,8 @@ html {
 }
 
 .logo a {
+  display: flex;
+  align-items: center;
   font-size: var(--font-size-header-logo);
   font-weight: var(--weight-boldest);
   color: #1E293B;
@@ -93,7 +95,9 @@ html {
   width: 40px;
   height: 40px;
   margin-right: 10px;
+  vertical-align: middle;
 }
+
 
 .nav-right-side {
   display: flex;
